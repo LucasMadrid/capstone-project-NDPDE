@@ -1,0 +1,277 @@
+[
+ {
+   "state_code": "AL",
+   "state_description": "ALABAMA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "AK",
+   "state_description": "ALASKA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "AZ",
+   "state_description": "ARIZONA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "AR",
+   "state_description": "ARKANSAS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "CA",
+   "state_description": "CALIFORNIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "CO",
+   "state_description": "COLORADO",
+   "country_code": "US"
+ },
+ {
+   "state_code": "CT",
+   "state_description": "CONNECTICUT",
+   "country_code": "US"
+ },
+ {
+   "state_code": "DE",
+   "state_description": "DELAWARE",
+   "country_code": "US"
+ },
+ {
+   "state_code": "DC",
+   "state_description": "DIST. OF COLUMBIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "FL",
+   "state_description": "FLORIDA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "GA",
+   "state_description": "GEORGIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "GU",
+   "state_description": "GUAM",
+   "country_code": "US"
+ },
+ {
+   "state_code": "HI",
+   "state_description": "HAWAII",
+   "country_code": "US"
+ },
+ {
+   "state_code": "ID",
+   "state_description": "IDAHO",
+   "country_code": "US"
+ },
+ {
+   "state_code": "IL",
+   "state_description": "ILLINOIS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "IN",
+   "state_description": "INDIANA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "IA",
+   "state_description": "IOWA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "KS",
+   "state_description": "KANSAS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "KY",
+   "state_description": "KENTUCKY",
+   "country_code": "US"
+ },
+ {
+   "state_code": "LA",
+   "state_description": "LOUISIANA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "ME",
+   "state_description": "MAINE",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MD",
+   "state_description": "MARYLAND",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MA",
+   "state_description": "MASSACHUSETTS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MI",
+   "state_description": "MICHIGAN",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MN",
+   "state_description": "MINNESOTA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MS",
+   "state_description": "MISSISSIPPI",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MO",
+   "state_description": "MISSOURI",
+   "country_code": "US"
+ },
+ {
+   "state_code": "MT",
+   "state_description": "MONTANA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NC",
+   "state_description": "N. CAROLINA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "ND",
+   "state_description": "N. DAKOTA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NE",
+   "state_description": "NEBRASKA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NV",
+   "state_description": "NEVADA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NH",
+   "state_description": "NEW HAMPSHIRE",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NJ",
+   "state_description": "NEW JERSEY",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NM",
+   "state_description": "NEW MEXICO",
+   "country_code": "US"
+ },
+ {
+   "state_code": "NY",
+   "state_description": "NEW YORK",
+   "country_code": "US"
+ },
+ {
+   "state_code": "OH",
+   "state_description": "OHIO",
+   "country_code": "US"
+ },
+ {
+   "state_code": "OK",
+   "state_description": "OKLAHOMA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "OR",
+   "state_description": "OREGON",
+   "country_code": "US"
+ },
+ {
+   "state_code": "PA",
+   "state_description": "PENNSYLVANIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "PR",
+   "state_description": "PUERTO RICO",
+   "country_code": "US"
+ },
+ {
+   "state_code": "RI",
+   "state_description": "RHODE ISLAND",
+   "country_code": "US"
+ },
+ {
+   "state_code": "SC",
+   "state_description": "S. CAROLINA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "SD",
+   "state_description": "S. DAKOTA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "TN",
+   "state_description": "TENNESSEE",
+   "country_code": "US"
+ },
+ {
+   "state_code": "TX",
+   "state_description": "TEXAS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "UT",
+   "state_description": "UTAH",
+   "country_code": "US"
+ },
+ {
+   "state_code": "VT",
+   "state_description": "VERMONT",
+   "country_code": "US"
+ },
+ {
+   "state_code": "VI",
+   "state_description": "VIRGIN ISLANDS",
+   "country_code": "US"
+ },
+ {
+   "state_code": "VA",
+   "state_description": "VIRGINIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "WV",
+   "state_description": "W. VIRGINIA",
+   "country_code": "US"
+ },
+ {
+   "state_code": "WA",
+   "state_description": "WASHINGTON",
+   "country_code": "US"
+ },
+ {
+   "state_code": "WI",
+   "state_description": "WISCONSON",
+   "country_code": "US"
+ },
+ {
+   "state_code": "WY",
+   "state_description": "WYOMING",
+   "country_code": "US"
+ },
+ {
+   "state_code": "OTHER",
+   "state_description": "All Other Codes",
+   "country_code": ""
+ }
+]

@@ -1,0 +1,488 @@
+[
+ {
+   "visa_category": "A1",
+   "description": "Ambassador, public minister, career diplomat, or consul, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "A2",
+   "description": "Other foreign government official or employee, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "A3",
+   "description": "Attendant or personal employee of A-1/A-2, and immediate family",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "B1",
+   "description": "Visitor for business",
+   "initial_duration_of_staya": "Six months to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "B2",
+   "description": "Visitor for pleasure",
+   "initial_duration_of_staya": "Six months to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "B1/B2",
+   "description": "Visitor for business and pleasure",
+   "initial_duration_of_staya": "Six months to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "B1/B2/\nBCC",
+   "description": "Border crossing cards for Mexicans",
+   "initial_duration_of_staya": "Up to 30 days (or longer if coupled with B-1 or B-2)",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "B1/B2/\nBCV",
+   "description": "Mexican Lincoln Border Crossing Visa",
+   "initial_duration_of_staya": "Up to 30 days (or longer if coupled with B-1 or B-2)",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "C1",
+   "description": "Alien in transit",
+   "initial_duration_of_staya": "Up to 29 days",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "C1/D",
+   "description": "Alien in transit/crew member",
+   "initial_duration_of_staya": "Up to 29 days",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "C2",
+   "description": "Alien in transit to United Nations Headquarters",
+   "initial_duration_of_staya": "Up to 29 days",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "C3",
+   "description": "Foreign government official and immediate family, attendant, or personal employee in transit",
+   "initial_duration_of_staya": "Up to 29 days",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "CW1",
+   "description": "Commonwealth of the Northern Marianas (CNMI) transitional worker",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "For FY2020: 12,000 plus 3,000 for construction/extraction occupations"
+ },
+ {
+   "visa_category": "CW2",
+   "description": "Spouse or child of CW-1",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "D",
+   "description": "Crew member",
+   "initial_duration_of_staya": "Up to 29 days",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "E1",
+   "description": "Treaty trader, spouse and child, and employee",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "E2",
+   "description": "Treaty investor, spouse and child, and employee",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "E2C",
+   "description": "CNMI treaty investor, spouse, and child",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "E3",
+   "description": "Australian specialty occupation professional",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "10,5"
+ },
+ {
+   "visa_category": "E3D",
+   "description": "Spouse or child of E-3",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "E3R",
+   "description": "Returning E-3",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "F1",
+   "description": "Foreign student (academic or language training program)",
+   "initial_duration_of_staya": "Duration of study (limited to 12 months for secondary school students)",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "F2",
+   "description": "Spouse or child of F-1",
+   "initial_duration_of_staya": "Duration of study",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "G1",
+   "description": "Principal resident representative of recognized foreign member government to international organization, staff, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "G2",
+   "description": "Other representative of recognized foreign member government to international organization, staff, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "G3",
+   "description": "Representative of nonrecognized or nonmember foreign member government to internationalorganization, staff, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "G4",
+   "description": "International organization officer or employee, and immediate family",
+   "initial_duration_of_staya": "Duration of assignment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "G5",
+   "description": "Attendant or personal employee of G-1 through G-4, and immediate family",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "H1B",
+   "description": "Temporary worker—professional specialty occupation",
+   "initial_duration_of_staya": "Specialty occupation: up to three years; Department of Defense (DOD) research & development: up to five years",
+   "annual_numeric_limit": "Specialty occupation or fashion model: 65,000, plus 20,000 for those with U.S. advanced degrees; renewals and certain research/educational employers are not counted against cap; DOD research & development: 100 at any time"
+ },
+ {
+   "visa_category": "H1 B1",
+   "description": "Free trade agreement professional from Chile or Singapore",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "1,400 for Chile; 5,400 for Singapore"
+ },
+ {
+   "visa_category": "H2A",
+   "description": "Temporary worker—agricultural workers",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "H2B",
+   "description": "Temporary worker— nonagricultural workers",
+   "initial_duration_of_staya": "Up to one year (up to three years in the case of a one-time event)",
+   "annual_numeric_limit": "66"
+ },
+ {
+   "visa_category": "H3",
+   "description": "Temporary worker—trainee",
+   "initial_duration_of_staya": "Alien trainee: up to\ntwo years\nSpecial education\nexchange visitor\nprogram: up to 18\nmonths",
+   "annual_numeric_limit": "Alien trainee: none Special education exchange visitor program: 50"
+ },
+ {
+   "visa_category": "I",
+   "description": "Representative of foreign information media, spouse and child",
+   "initial_duration_of_staya": "Duration of employment",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "J1",
+   "description": "Cultural exchange visitor",
+   "initial_duration_of_staya": "Duration of program",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "J2",
+   "description": "Spouse or child of J-1",
+   "initial_duration_of_staya": "Duration of program",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "K1",
+   "description": "Fiancé(e) of U.S. citizen",
+   "initial_duration_of_staya": "Valid for four months; must marry within 90 days of entry to adjust to LPR status",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "K2",
+   "description": "Child of K-1",
+   "initial_duration_of_staya": "Same as parent",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "K3",
+   "description": "Spouse of U.S. citizen awaiting lawful permanent resident visa",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "K4",
+   "description": "Child of K-3",
+   "initial_duration_of_staya": "Up to two years or until 21st birthday",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "L1",
+   "description": "Intracompany transferee (executive, managerial, and specialized knowledge personnel continuing employment with international firm or corporation)",
+   "initial_duration_of_staya": "Up to three years; up to one year when beneficiary is coming to open or be employed in a new office",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "L2",
+   "description": "Spouse or child of L-1",
+   "initial_duration_of_staya": "Same as spouse/parent",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "M1",
+   "description": "Vocational student",
+   "initial_duration_of_staya": "Duration of study",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "M2",
+   "description": "Spouse or child of M-1",
+   "initial_duration_of_staya": "Same as spouse/parent",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "M3",
+   "description": "Border commuter vocational or nonacademic student",
+   "initial_duration_of_staya": "Duration of study",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO1",
+   "description": "Principal permanent representative of member nations to North Atlantic Treaty Organization (NATO), high ranking NATO officials, and immediate family members",
+   "initial_duration_of_staya": "Tour of duty",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO2",
+   "description": "Other representatives of member states to NATO (including any of its subsidiary bodies) and immediate family members; dependents of member of a force entering in accordance with provisions of NATO agreements, members of such force",
+   "initial_duration_of_staya": "Tour of duty",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO3",
+   "description": "Official clerical staff accompanying a representative of a member state to NATO, and immediate family",
+   "initial_duration_of_staya": "Tour of duty",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO5",
+   "description": "Experts employed in missions on\nbehalf of NATO (other than\nNATO-4 officials), and their\ndependents",
+   "initial_duration_of_staya": "Tour of duty",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO6",
+   "description": "Civilian employees of a force entering in accordance with the provisions of NATO agreements or attached to NATO headquarters, and immediate family",
+   "initial_duration_of_staya": "Tour of duty",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "NATO7",
+   "description": "Attendant or personal employee of NATO-1 through NATO-6, and immediate family",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "N8",
+   "description": "Parent of certain special immigrants (pertaining to international organizations)",
+   "initial_duration_of_staya": "Up to three years, as long as special immigrant remains a child",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "N9",
+   "description": "Child of N-8 or of certain special immigrants (pertaining to international organizations)",
+   "initial_duration_of_staya": "Up to three years, or until no longer a child, whichever is shorter",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "O1",
+   "description": "Person with extraordinary ability in the sciences, arts, education, business, or athletics",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "O2",
+   "description": "Person accompanying and assisting in the artistic or athletic performance by O-1",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "O3",
+   "description": "Spouse or child of O-1 or O-2",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "P1",
+   "description": "Internationally recognized athlete or member of an internationally recognized entertainment group and essential support",
+   "initial_duration_of_staya": "Up to five years for individual, up to one year for group or team",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "P2",
+   "description": "Artist or entertainer in a reciprocal exchange program and essential support",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "P3",
+   "description": "Artist or entertainer in a culturally unique program and essential support",
+   "initial_duration_of_staya": "Up to one year",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "P4",
+   "description": "Spouse or child of P-1, P-2, or P-3",
+   "initial_duration_of_staya": "Same as spouse/parent",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "Q1",
+   "description": "International cultural exchange program participant",
+   "initial_duration_of_staya": "Up to 15 months",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "R1",
+   "description": "Religious worker",
+   "initial_duration_of_staya": "Up to 30 months",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "R2",
+   "description": "Spouse or child of R-1",
+   "initial_duration_of_staya": "Up to 30 months",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "S5",
+   "description": "Witness or informant in criminal matter",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "200"
+ },
+ {
+   "visa_category": "S6",
+   "description": "Witness or informant in terrorism matter",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "50"
+ },
+ {
+   "visa_category": "T1",
+   "description": "Victim of human trafficking",
+   "initial_duration_of_staya": "Up to four years; may adjust to LPR status if conditions are met",
+   "annual_numeric_limit": "5"
+ },
+ {
+   "visa_category": "T2",
+   "description": "Spouse of T-1",
+   "initial_duration_of_staya": "Same as T-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "T3",
+   "description": "Child of T-1",
+   "initial_duration_of_staya": "Same as T-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "T4",
+   "description": "Parent of T-1",
+   "initial_duration_of_staya": "Same as T-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "T5",
+   "description": "Unmarried sibling under age 18 of T-1",
+   "initial_duration_of_staya": "Same as T-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "T6",
+   "description": "Adult or minor child of T-2, T-3, T-4, or T-5",
+   "initial_duration_of_staya": "Same as T-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "TN",
+   "description": "NAFTA professional",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "TD",
+   "description": "Spouse or child of TN",
+   "initial_duration_of_staya": "Up to three years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "U1",
+   "description": "Victim or informant of criminal activity",
+   "initial_duration_of_staya": "Up to four years; may adjust to LPR status if conditions are met.",
+   "annual_numeric_limit": "10"
+ },
+ {
+   "visa_category": "U2",
+   "description": "Spouse of U-1",
+   "initial_duration_of_staya": "Same as U-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "U3",
+   "description": "Child of U-1",
+   "initial_duration_of_staya": "Same as U-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "U4",
+   "description": "Parent of U-1 under age 21",
+   "initial_duration_of_staya": "Same as U-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "U5",
+   "description": "Unmarried sibling under age 18 of U-1 under age 21",
+   "initial_duration_of_staya": "Same as U-1",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "V1",
+   "description": "Spouse of LPR who has had immigrant visa petition pending for three years or longer; transitional\nvisa that leads to LPR status when visa becomes available",
+   "initial_duration_of_staya": "Up to two years",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "V2",
+   "description": "Child of LPR who has had immigrant visa petition pending for three years or longer",
+   "initial_duration_of_staya": "Up to two years, or until 21st birthday",
+   "annual_numeric_limit": "None"
+ },
+ {
+   "visa_category": "Child of V1 or V2",
+   "description": "Up to two years, or until 21st birthday",
+   "initial_duration_of_staya": "None",
+   "annual_numeric_limit": "0"
+ }
+]
